@@ -2,7 +2,7 @@ package org.openedx.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val light_primary = Color(0xFF3C68FF)
+val light_primary = Color(0xFF002FA7) //updated
 val light_primary_variant = Color(0x9ADEFAFF)
 val light_secondary = Color(0xFF94D3DD)
 val light_secondary_variant = Color(0xFF94D3DD)
@@ -25,7 +25,7 @@ val light_text_field_background_variant = Color.White
 val light_text_field_border = Color(0xFF97A5BB)
 val light_text_field_text = Color(0xFF3D4964)
 val light_text_field_hint = Color(0xFF97A5BB)
-val light_button_background = Color(0xFF3C68FF)
+val light_button_background = Color(0xFF002FA7) //updated
 val light_button_secondary_background = Color(0xFF79889F)
 val light_button_text = Color.White
 val light_card_view_background = Color(0xFFF9FAFB)
@@ -58,11 +58,11 @@ val light_course_home_back_btn_background = Color.White
 val light_settings_title_content = Color.White
 
 
-val dark_primary = Color(0xFF5478F9)
+val dark_primary = Color(0xFF032F5F) //updated
 val dark_primary_variant = Color(0xFF3700B3)
 val dark_secondary = Color(0xFF03DAC6)
 val dark_secondary_variant = Color(0xFF373E4F)
-val dark_background = Color(0xFF19212F)
+val dark_background = Color(0xFF162838)
 val dark_surface = Color(0xFF273346)
 val dark_error = Color(0xFFFF3D71)
 val dark_onPrimary = Color.Black
@@ -75,7 +75,7 @@ val dark_text_primary_variant = Color(0xFF79889F)
 val dark_text_secondary = Color(0xFFB3B3B3)
 val dark_text_dark = Color.White
 val dark_text_accent = Color(0xFF879FF5)
-val dark_text_warning= Color(0xFF19212F)
+val dark_text_warning= Color(0xFF0B2032) //updated
 val dark_text_field_background = Color(0xFF273346)
 val dark_text_field_background_variant = Color(0xFF273346)
 val dark_text_field_border = Color(0xFF4E5A70)
